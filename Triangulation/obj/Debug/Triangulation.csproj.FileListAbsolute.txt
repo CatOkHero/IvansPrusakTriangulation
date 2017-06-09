@@ -1,0 +1,12 @@
+E:\Навчання\ЧММФ\Programs\Triangulation\Triangulation\bin\Debug\Triangulation.exe.config
+E:\Навчання\ЧММФ\Programs\Triangulation\Triangulation\bin\Debug\Triangulation.exe
+E:\Навчання\ЧММФ\Programs\Triangulation\Triangulation\bin\Debug\Triangulation.pdb
+E:\Навчання\ЧММФ\Programs\Triangulation\Triangulation\obj\Debug\Triangulation.Form1.resources
+E:\Навчання\ЧММФ\Programs\Triangulation\Triangulation\obj\Debug\Triangulation.Properties.Resources.resources
+E:\Навчання\ЧММФ\Programs\Triangulation\Triangulation\obj\Debug\Triangulation.csproj.GenerateResource.Cache
+E:\Навчання\ЧММФ\Programs\Triangulation\Triangulation\obj\Debug\Triangulation.exe
+E:\Навчання\ЧММФ\Programs\Triangulation\Triangulation\obj\Debug\Triangulation.pdb
+E:\Навчання\ЧММФ\Programs\Triangulation\Triangulation\obj\Debug\Triangulation.csprojResolveAssemblyReference.cache
+E:\Навчання\ЧММФ\Programs\Triangulation\Triangulation\obj\Debug\Triangulation.DisplayTriangulation.resources
+E:\Навчання\ЧММФ\Programs\Triangulation\Triangulation\bin\Debug\TriangulationByMinimumAngle.exe
+E:\Навчання\ЧММФ\Programs\Triangulation\Triangulation\bin\Debug\TriangulationByMinimumAngle.pdb

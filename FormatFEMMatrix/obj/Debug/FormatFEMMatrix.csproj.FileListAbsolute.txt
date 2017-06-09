@@ -1,0 +1,21 @@
+E:\Навчання\ЧММФ\Programs\Triangulation\FormatFEMMatrix\bin\Debug\FormatFEMMatrix.dll
+E:\Навчання\ЧММФ\Programs\Triangulation\FormatFEMMatrix\bin\Debug\FormatFEMMatrix.pdb
+E:\Навчання\ЧММФ\Programs\Triangulation\FormatFEMMatrix\bin\Debug\TriangulationByMinimumAngle.exe
+E:\Навчання\ЧММФ\Programs\Triangulation\FormatFEMMatrix\bin\Debug\TriangulationByMinimumAngle.pdb
+E:\Навчання\ЧММФ\Programs\Triangulation\FormatFEMMatrix\obj\Debug\FormatFEMMatrix.csprojResolveAssemblyReference.cache
+E:\Навчання\ЧММФ\Programs\Triangulation\FormatFEMMatrix\obj\Debug\FormatFEMMatrix.dll
+E:\Навчання\ЧММФ\Programs\Triangulation\FormatFEMMatrix\obj\Debug\FormatFEMMatrix.pdb
+E:\Навчання\Numerical methods of Mathematical Physics\Programs\Triangulation\FormatFEMMatrix\bin\Debug\FormatFEMMatrix.dll
+E:\Навчання\Numerical methods of Mathematical Physics\Programs\Triangulation\FormatFEMMatrix\bin\Debug\FormatFEMMatrix.pdb
+E:\Навчання\Numerical methods of Mathematical Physics\Programs\Triangulation\FormatFEMMatrix\bin\Debug\TriangulationByMinimumAngle.exe
+E:\Навчання\Numerical methods of Mathematical Physics\Programs\Triangulation\FormatFEMMatrix\bin\Debug\TriangulationByMinimumAngle.pdb
+E:\Навчання\Numerical methods of Mathematical Physics\Programs\Triangulation\FormatFEMMatrix\obj\Debug\FormatFEMMatrix.csprojResolveAssemblyReference.cache
+E:\Навчання\Numerical methods of Mathematical Physics\Programs\Triangulation\FormatFEMMatrix\obj\Debug\FormatFEMMatrix.dll
+E:\Навчання\Numerical methods of Mathematical Physics\Programs\Triangulation\FormatFEMMatrix\obj\Debug\FormatFEMMatrix.pdb
+C:\Users\roman\Desktop\Універ 4-й курс\Triangulation\Triangulation\FormatFEMMatrix\bin\Debug\FormatFEMMatrix.dll
+C:\Users\roman\Desktop\Універ 4-й курс\Triangulation\Triangulation\FormatFEMMatrix\bin\Debug\FormatFEMMatrix.pdb
+C:\Users\roman\Desktop\Універ 4-й курс\Triangulation\Triangulation\FormatFEMMatrix\bin\Debug\TriangulationByMinimumAngle.exe
+C:\Users\roman\Desktop\Універ 4-й курс\Triangulation\Triangulation\FormatFEMMatrix\bin\Debug\TriangulationByMinimumAngle.pdb
+C:\Users\roman\Desktop\Універ 4-й курс\Triangulation\Triangulation\FormatFEMMatrix\obj\Debug\FormatFEMMatrix.csprojResolveAssemblyReference.cache
+C:\Users\roman\Desktop\Універ 4-й курс\Triangulation\Triangulation\FormatFEMMatrix\obj\Debug\FormatFEMMatrix.dll
+C:\Users\roman\Desktop\Універ 4-й курс\Triangulation\Triangulation\FormatFEMMatrix\obj\Debug\FormatFEMMatrix.pdb

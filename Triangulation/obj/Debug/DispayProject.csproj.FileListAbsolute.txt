@@ -1,0 +1,54 @@
+E:\Навчання\ЧММФ\Programs\Triangulation\Triangulation\bin\Debug\Triangulation.exe.config
+E:\Навчання\ЧММФ\Programs\Triangulation\Triangulation\obj\Debug\Triangulation.exe
+E:\Навчання\ЧММФ\Programs\Triangulation\Triangulation\obj\Debug\Triangulation.pdb
+E:\Навчання\ЧММФ\Programs\Triangulation\Triangulation\bin\Debug\Triangulation.exe
+E:\Навчання\ЧММФ\Programs\Triangulation\Triangulation\bin\Debug\Triangulation.pdb
+E:\Навчання\ЧММФ\Programs\Triangulation\Triangulation\bin\Debug\TriangulationByMinimumAngle.exe
+E:\Навчання\ЧММФ\Programs\Triangulation\Triangulation\bin\Debug\TriangulationByMinimumAngle.pdb
+E:\Навчання\ЧММФ\Programs\Triangulation\Triangulation\obj\Debug\DispayProject.csprojResolveAssemblyReference.cache
+E:\Навчання\ЧММФ\Programs\Triangulation\Triangulation\obj\Debug\Triangulation.DisplayTriangulation.resources
+E:\Навчання\ЧММФ\Programs\Triangulation\Triangulation\obj\Debug\Triangulation.Form1.resources
+E:\Навчання\ЧММФ\Programs\Triangulation\Triangulation\obj\Debug\Triangulation.Properties.Resources.resources
+E:\Навчання\ЧММФ\Programs\Triangulation\Triangulation\obj\Debug\DispayProject.csproj.GenerateResource.Cache
+E:\Навчання\ЧММФ\Programs\Triangulation\Triangulation\bin\Debug\FormatFEMMatrix.dll
+E:\Навчання\ЧММФ\Programs\Triangulation\Triangulation\bin\Debug\FormatFEMMatrix.pdb
+E:\Навчання\ЧММФ\Programs\Triangulation\Triangulation\obj\Debug\Triangulation.DisplayMatrix.resources
+E:\Навчання\ЧММФ\Programs\Triangulation\Triangulation\obj\Debug\Triangulation.GeneralMatrixcs.resources
+E:\Навчання\ЧММФ\Programs\Triangulation\Triangulation\bin\Debug\SolveFEMMatrix.dll
+E:\Навчання\ЧММФ\Programs\Triangulation\Triangulation\bin\Debug\SolveFEMMatrix.pdb
+E:\Навчання\Numerical methods of Mathematical Physics\Programs\Triangulation\Triangulation\bin\Debug\Triangulation.exe.config
+E:\Навчання\Numerical methods of Mathematical Physics\Programs\Triangulation\Triangulation\obj\Debug\Triangulation.exe
+E:\Навчання\Numerical methods of Mathematical Physics\Programs\Triangulation\Triangulation\obj\Debug\Triangulation.pdb
+E:\Навчання\Numerical methods of Mathematical Physics\Programs\Triangulation\Triangulation\bin\Debug\Triangulation.exe
+E:\Навчання\Numerical methods of Mathematical Physics\Programs\Triangulation\Triangulation\bin\Debug\Triangulation.pdb
+E:\Навчання\Numerical methods of Mathematical Physics\Programs\Triangulation\Triangulation\bin\Debug\FormatFEMMatrix.dll
+E:\Навчання\Numerical methods of Mathematical Physics\Programs\Triangulation\Triangulation\bin\Debug\SolveFEMMatrix.dll
+E:\Навчання\Numerical methods of Mathematical Physics\Programs\Triangulation\Triangulation\bin\Debug\TriangulationByMinimumAngle.exe
+E:\Навчання\Numerical methods of Mathematical Physics\Programs\Triangulation\Triangulation\bin\Debug\FormatFEMMatrix.pdb
+E:\Навчання\Numerical methods of Mathematical Physics\Programs\Triangulation\Triangulation\bin\Debug\SolveFEMMatrix.pdb
+E:\Навчання\Numerical methods of Mathematical Physics\Programs\Triangulation\Triangulation\bin\Debug\TriangulationByMinimumAngle.pdb
+E:\Навчання\Numerical methods of Mathematical Physics\Programs\Triangulation\Triangulation\obj\Debug\DispayProject.csprojResolveAssemblyReference.cache
+E:\Навчання\Numerical methods of Mathematical Physics\Programs\Triangulation\Triangulation\obj\Debug\Triangulation.DisplayMatrix.resources
+E:\Навчання\Numerical methods of Mathematical Physics\Programs\Triangulation\Triangulation\obj\Debug\Triangulation.DisplayTriangulation.resources
+E:\Навчання\Numerical methods of Mathematical Physics\Programs\Triangulation\Triangulation\obj\Debug\Triangulation.Form1.resources
+E:\Навчання\Numerical methods of Mathematical Physics\Programs\Triangulation\Triangulation\obj\Debug\Triangulation.GeneralMatrixcs.resources
+E:\Навчання\Numerical methods of Mathematical Physics\Programs\Triangulation\Triangulation\obj\Debug\Triangulation.Properties.Resources.resources
+E:\Навчання\Numerical methods of Mathematical Physics\Programs\Triangulation\Triangulation\obj\Debug\DispayProject.csproj.GenerateResource.Cache
+C:\Users\roman\Desktop\Універ 4-й курс\Triangulation\Triangulation\Triangulation\bin\Debug\Triangulation.exe.config
+C:\Users\roman\Desktop\Універ 4-й курс\Triangulation\Triangulation\Triangulation\obj\Debug\Triangulation.exe
+C:\Users\roman\Desktop\Універ 4-й курс\Triangulation\Triangulation\Triangulation\obj\Debug\Triangulation.pdb
+C:\Users\roman\Desktop\Універ 4-й курс\Triangulation\Triangulation\Triangulation\bin\Debug\Triangulation.exe
+C:\Users\roman\Desktop\Універ 4-й курс\Triangulation\Triangulation\Triangulation\bin\Debug\Triangulation.pdb
+C:\Users\roman\Desktop\Універ 4-й курс\Triangulation\Triangulation\Triangulation\bin\Debug\FormatFEMMatrix.dll
+C:\Users\roman\Desktop\Універ 4-й курс\Triangulation\Triangulation\Triangulation\bin\Debug\SolveFEMMatrix.dll
+C:\Users\roman\Desktop\Універ 4-й курс\Triangulation\Triangulation\Triangulation\bin\Debug\TriangulationByMinimumAngle.exe
+C:\Users\roman\Desktop\Універ 4-й курс\Triangulation\Triangulation\Triangulation\bin\Debug\FormatFEMMatrix.pdb
+C:\Users\roman\Desktop\Універ 4-й курс\Triangulation\Triangulation\Triangulation\bin\Debug\SolveFEMMatrix.pdb
+C:\Users\roman\Desktop\Універ 4-й курс\Triangulation\Triangulation\Triangulation\bin\Debug\TriangulationByMinimumAngle.pdb
+C:\Users\roman\Desktop\Універ 4-й курс\Triangulation\Triangulation\Triangulation\obj\Debug\DispayProject.csprojResolveAssemblyReference.cache
+C:\Users\roman\Desktop\Універ 4-й курс\Triangulation\Triangulation\Triangulation\obj\Debug\Triangulation.DisplayMatrix.resources
+C:\Users\roman\Desktop\Універ 4-й курс\Triangulation\Triangulation\Triangulation\obj\Debug\Triangulation.DisplayTriangulation.resources
+C:\Users\roman\Desktop\Універ 4-й курс\Triangulation\Triangulation\Triangulation\obj\Debug\Triangulation.Form1.resources
+C:\Users\roman\Desktop\Універ 4-й курс\Triangulation\Triangulation\Triangulation\obj\Debug\Triangulation.GeneralMatrixcs.resources
+C:\Users\roman\Desktop\Універ 4-й курс\Triangulation\Triangulation\Triangulation\obj\Debug\Triangulation.Properties.Resources.resources
+C:\Users\roman\Desktop\Універ 4-й курс\Triangulation\Triangulation\Triangulation\obj\Debug\DispayProject.csproj.GenerateResource.Cache
